@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gaa:home|Door43 (gaa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gaa|d43-gaa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gaa/archive/master.zip|d43-gaa.zip]]
+
+**Recent Changes**
+{{changes>ns = gaa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gaa|Ethnologue data]]
+
